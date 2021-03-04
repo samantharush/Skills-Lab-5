@@ -9,6 +9,15 @@ This program takes a name (or any text entry) entered from its user, then prints
 ## How does someone use this thing?
 After running the program, it will ask the user (presumably, you) to enter a name. Once the desired name is typed in the text entry box, hit the keyboard's 'ENTER' key. Then the program will do its thing! It will then ask the user to enter their age. Don't worry about putting anything like "years old" in there. We've got you covered! Once the age is typed in the text entry box, hit the keyboard's 'ENTER' key, and the program will do its thing once more. The program will automatically stop running after it's done doing its work, so if the user wants to close it completely, then they can do so as they would with any other program (or tab depending on how you're running it). If the user wants to use the program again, they need to start it back up in the same way as the first time.
 
+## How does someone install this thing?
+This program can be run inside of JupyterLab. To download/install or learn more about JupyterLab, go to their website here: https://jupyter.org/
+
+## How am I able to use or distribute this thing?
+Please check the "LICENSE.md" file that has been included with this program for further details on that.
+
+## Can I make any changes to how this thing works?
+Go for it! Just be sure to read and follow the instructions to do so that are in the "CODE-OF-CONDUCT.md" file that's been included with this program before you do!
+
 ## Lastly, who made this thing?
 * Samantha Rush
 * Jonathan Price
